@@ -1,0 +1,8 @@
+Filme;Regressao_Logistica;Arvore_Decisao;Floresta_Aleatoria;Todos_Modelos_Previram_Vencedor;Todos_Modelos_Previram_Perda
+1917;1;0;0;False;False
+12 Years a Slave;0;1;1;False;False
+Brokeback Mountain;1;0;0;False;False
+Green Book;0;1;1;False;False
+La La Land;1;0;0;False;False
+Moonlight;0;1;1;False;False
+The Departed;0;1;1;False;False

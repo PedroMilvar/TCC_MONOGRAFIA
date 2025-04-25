@@ -1,0 +1,286 @@
+Filme;Previsao;Chance_Vitoria_%;Modelo
+1917;1;68.43;Regressao_Logistica
+12 Years a Slave;0;30.22;Regressao_Logistica
+A Most Violent Year;0;6.89;Regressao_Logistica
+A Star Is Born;0;7.41;Regressao_Logistica
+All Quiet on the Western Front;0;6.87;Regressao_Logistica
+American Hustle;0;30.65;Regressao_Logistica
+Argo;1;90.91;Regressao_Logistica
+Atonement;0;8.34;Regressao_Logistica
+Avatar;0;10.58;Regressao_Logistica
+Babel;0;10.58;Regressao_Logistica
+Beginners The Tree of Life;0;13.01;Regressao_Logistica
+Birdman;1;93.2;Regressao_Logistica
+Black Panther;0;30.65;Regressao_Logistica
+Bohemian Rhapsody;0;10.58;Regressao_Logistica
+Boyhood;0;8.34;Regressao_Logistica
+Brokeback Mountain;1;64.4;Regressao_Logistica
+Call Me by Your Name;0;13.01;Regressao_Logistica
+Capote;0;13.01;Regressao_Logistica
+CODA;1;71.58;Regressao_Logistica
+Crash;0;30.65;Regressao_Logistica
+Da 5 Bloods;0;6.89;Regressao_Logistica
+Dreamgirls;0;7.41;Regressao_Logistica
+Everything Everywhere All at Once;1;93.2;Regressao_Logistica
+Finding Neverland;0;6.89;Regressao_Logistica
+Ford vs. Ferrari;0;7.41;Regressao_Logistica
+Fox Searchlight Pictures;0;13.01;Regressao_Logistica
+Frozen River;0;13.01;Regressao_Logistica
+Gisaengchung;0;30.65;Regressao_Logistica
+God's Own Country;0;7.41;Regressao_Logistica
+Good Night;0;6.89;Regressao_Logistica
+Gravity;0;28.58;Regressao_Logistica
+Green Book;0;29.67;Regressao_Logistica
+Half Nelson;0;13.01;Regressao_Logistica
+Happy-Go-Lucky;0;7.41;Regressao_Logistica
+Her;0;6.89;Regressao_Logistica
+Hidden Figures;0;30.65;Regressao_Logistica
+Hotel Ruanda;0;7.41;Regressao_Logistica
+Hugo;0;6.89;Regressao_Logistica
+If Beale Street Could Talk;0;7.41;Regressao_Logistica
+Inglourious Basterds;0;30.65;Regressao_Logistica
+Inside Llewyn Davis;0;13.01;Regressao_Logistica
+Into the Wild;0;13.01;Regressao_Logistica
+Juno;0;7.41;Regressao_Logistica
+Killers of the Flower Moon;0;6.89;Regressao_Logistica
+La La Land;1;59.44;Regressao_Logistica
+Letters from Iwo Jima;0;6.89;Regressao_Logistica
+Licorice Pizza;0;6.89;Regressao_Logistica
+Little Miss Sunshine;1;71.58;Regressao_Logistica
+Mad Max: Fury Road;0;6.89;Regressao_Logistica
+Manchester by the Sea;0;5.82;Regressao_Logistica
+Marriage Story;0;13.01;Regressao_Logistica
+Million Dollar Baby;0;28.58;Regressao_Logistica
+Moonlight;0;15.59;Regressao_Logistica
+Moonrise Kingdom;0;13.01;Regressao_Logistica
+Nine;0;7.41;Regressao_Logistica
+No Country for Old Men;1;59.53;Regressao_Logistica
+Nomadland;1;73.85;Regressao_Logistica
+Once Upon a Time in Hollywood;0;7.41;Regressao_Logistica
+Oppenheimer;1;63.69;Regressao_Logistica
+Past Lives;0;13.01;Regressao_Logistica
+Roma;0;23.55;Regressao_Logistica
+Scott Pilgrim vs. the World;0;7.41;Regressao_Logistica
+Sideways;0;36.55;Regressao_Logistica
+Silver Linings;0;7.41;Regressao_Logistica
+Slumdog Millionaire;1;86.58;Regressao_Logistica
+Spotlight;0;36.55;Regressao_Logistica
+The Artist;1;63.71;Regressao_Logistica
+The Aviator;0;34.16;Regressao_Logistica
+The Big Short;0;35.32;Regressao_Logistica
+The Departed;0;25.04;Regressao_Logistica
+The Descendants;0;7.41;Regressao_Logistica
+The Fabelmans;0;10.58;Regressao_Logistica
+The Forty-Year-Old Version;0;7.41;Regressao_Logistica
+The Help;0;30.65;Regressao_Logistica
+The Holdovers;0;7.41;Regressao_Logistica
+The Hurt Locker;1;69.58;Regressao_Logistica
+The Irishman;0;6.89;Regressao_Logistica
+The King's Speech;1;89.01;Regressao_Logistica
+The Lord of the Rings: The Return of the King;1;71.58;Regressao_Logistica
+The Lost Daughter;0;13.01;Regressao_Logistica
+The Post;0;6.89;Regressao_Logistica
+The Power of the Dog;0;27.55;Regressao_Logistica
+The Queen;0;6.87;Regressao_Logistica
+The Revenant;0;27.55;Regressao_Logistica
+The Rider;0;13.01;Regressao_Logistica
+The Shape of Water;1;69.52;Regressao_Logistica
+The Social Network;0;7.09;Regressao_Logistica
+The Trial of the Chicago 7;0;30.65;Regressao_Logistica
+Three Billboards Outside Ebbing;0;25.96;Regressao_Logistica
+Tick Tick... Boom!;0;7.41;Regressao_Logistica
+Top Gun: Maverick;0;6.89;Regressao_Logistica
+Up in the Air;0;6.89;Regressao_Logistica
+Walk the line;0;7.41;Regressao_Logistica
+Winter's Bone;0;13.01;Regressao_Logistica
+Zero Dark Thirty;0;6.89;Regressao_Logistica
+1917;1;100.0;ARVORE_DECISAO
+12 Years a Slave;1;100.0;ARVORE_DECISAO
+A Most Violent Year;0;0.0;ARVORE_DECISAO
+A Star Is Born;0;0.0;ARVORE_DECISAO
+All Quiet on the Western Front;0;0.0;ARVORE_DECISAO
+American Hustle;0;40.0;ARVORE_DECISAO
+Argo;1;100.0;ARVORE_DECISAO
+Atonement;0;0.0;ARVORE_DECISAO
+Avatar;0;0.0;ARVORE_DECISAO
+Babel;0;0.0;ARVORE_DECISAO
+Beginners The Tree of Life;0;0.0;ARVORE_DECISAO
+Birdman;1;100.0;ARVORE_DECISAO
+Black Panther;0;40.0;ARVORE_DECISAO
+Bohemian Rhapsody;0;0.0;ARVORE_DECISAO
+Boyhood;0;0.0;ARVORE_DECISAO
+Brokeback Mountain;0;0.0;ARVORE_DECISAO
+Call Me by Your Name;0;0.0;ARVORE_DECISAO
+Capote;0;0.0;ARVORE_DECISAO
+CODA;1;100.0;ARVORE_DECISAO
+Crash;0;40.0;ARVORE_DECISAO
+Da 5 Bloods;0;0.0;ARVORE_DECISAO
+Dreamgirls;0;0.0;ARVORE_DECISAO
+Everything Everywhere All at Once;1;100.0;ARVORE_DECISAO
+Finding Neverland;0;0.0;ARVORE_DECISAO
+Ford vs. Ferrari;0;0.0;ARVORE_DECISAO
+Fox Searchlight Pictures;0;0.0;ARVORE_DECISAO
+Frozen River;0;0.0;ARVORE_DECISAO
+Gisaengchung;0;40.0;ARVORE_DECISAO
+God's Own Country;0;0.0;ARVORE_DECISAO
+Good Night;0;0.0;ARVORE_DECISAO
+Gravity;0;50.0;ARVORE_DECISAO
+Green Book;1;100.0;ARVORE_DECISAO
+Half Nelson;0;0.0;ARVORE_DECISAO
+Happy-Go-Lucky;0;0.0;ARVORE_DECISAO
+Her;0;0.0;ARVORE_DECISAO
+Hidden Figures;0;40.0;ARVORE_DECISAO
+Hotel Ruanda;0;0.0;ARVORE_DECISAO
+Hugo;0;0.0;ARVORE_DECISAO
+If Beale Street Could Talk;0;0.0;ARVORE_DECISAO
+Inglourious Basterds;0;40.0;ARVORE_DECISAO
+Inside Llewyn Davis;0;0.0;ARVORE_DECISAO
+Into the Wild;0;0.0;ARVORE_DECISAO
+Juno;0;0.0;ARVORE_DECISAO
+Killers of the Flower Moon;0;0.0;ARVORE_DECISAO
+La La Land;0;0.0;ARVORE_DECISAO
+Letters from Iwo Jima;0;0.0;ARVORE_DECISAO
+Licorice Pizza;0;0.0;ARVORE_DECISAO
+Little Miss Sunshine;1;100.0;ARVORE_DECISAO
+Mad Max: Fury Road;0;0.0;ARVORE_DECISAO
+Manchester by the Sea;0;0.0;ARVORE_DECISAO
+Marriage Story;0;0.0;ARVORE_DECISAO
+Million Dollar Baby;0;50.0;ARVORE_DECISAO
+Moonlight;1;100.0;ARVORE_DECISAO
+Moonrise Kingdom;0;0.0;ARVORE_DECISAO
+Nine;0;0.0;ARVORE_DECISAO
+No Country for Old Men;1;100.0;ARVORE_DECISAO
+Nomadland;1;100.0;ARVORE_DECISAO
+Once Upon a Time in Hollywood;0;0.0;ARVORE_DECISAO
+Oppenheimer;1;100.0;ARVORE_DECISAO
+Past Lives;0;0.0;ARVORE_DECISAO
+Roma;0;0.0;ARVORE_DECISAO
+Scott Pilgrim vs. the World;0;0.0;ARVORE_DECISAO
+Sideways;0;50.0;ARVORE_DECISAO
+Silver Linings;0;0.0;ARVORE_DECISAO
+Slumdog Millionaire;1;100.0;ARVORE_DECISAO
+Spotlight;0;50.0;ARVORE_DECISAO
+The Artist;1;100.0;ARVORE_DECISAO
+The Aviator;0;0.0;ARVORE_DECISAO
+The Big Short;1;100.0;ARVORE_DECISAO
+The Departed;1;100.0;ARVORE_DECISAO
+The Descendants;0;0.0;ARVORE_DECISAO
+The Fabelmans;0;0.0;ARVORE_DECISAO
+The Forty-Year-Old Version;0;0.0;ARVORE_DECISAO
+The Help;0;40.0;ARVORE_DECISAO
+The Holdovers;0;0.0;ARVORE_DECISAO
+The Hurt Locker;1;100.0;ARVORE_DECISAO
+The Irishman;0;0.0;ARVORE_DECISAO
+The King's Speech;1;100.0;ARVORE_DECISAO
+The Lord of the Rings: The Return of the King;1;100.0;ARVORE_DECISAO
+The Lost Daughter;0;0.0;ARVORE_DECISAO
+The Post;0;0.0;ARVORE_DECISAO
+The Power of the Dog;0;0.0;ARVORE_DECISAO
+The Queen;0;0.0;ARVORE_DECISAO
+The Revenant;0;0.0;ARVORE_DECISAO
+The Rider;0;0.0;ARVORE_DECISAO
+The Shape of Water;1;100.0;ARVORE_DECISAO
+The Social Network;0;0.0;ARVORE_DECISAO
+The Trial of the Chicago 7;0;40.0;ARVORE_DECISAO
+Three Billboards Outside Ebbing;0;0.0;ARVORE_DECISAO
+Tick Tick... Boom!;0;0.0;ARVORE_DECISAO
+Top Gun: Maverick;0;0.0;ARVORE_DECISAO
+Up in the Air;0;0.0;ARVORE_DECISAO
+Walk the line;0;0.0;ARVORE_DECISAO
+Winter's Bone;0;0.0;ARVORE_DECISAO
+Zero Dark Thirty;0;0.0;ARVORE_DECISAO
+1917;1;51.0;FLORESTA_ALEATORIA
+12 Years a Slave;1;72.0;FLORESTA_ALEATORIA
+A Most Violent Year;0;0.0;FLORESTA_ALEATORIA
+A Star Is Born;0;0.0;FLORESTA_ALEATORIA
+All Quiet on the Western Front;0;2.83;FLORESTA_ALEATORIA
+American Hustle;0;38.16;FLORESTA_ALEATORIA
+Argo;1;91.0;FLORESTA_ALEATORIA
+Atonement;0;3.0;FLORESTA_ALEATORIA
+Avatar;0;1.0;FLORESTA_ALEATORIA
+Babel;0;1.0;FLORESTA_ALEATORIA
+Beginners The Tree of Life;0;0.0;FLORESTA_ALEATORIA
+Birdman;1;95.07;FLORESTA_ALEATORIA
+Black Panther;0;38.16;FLORESTA_ALEATORIA
+Bohemian Rhapsody;0;1.0;FLORESTA_ALEATORIA
+Boyhood;0;3.0;FLORESTA_ALEATORIA
+Brokeback Mountain;0;21.0;FLORESTA_ALEATORIA
+Call Me by Your Name;0;0.0;FLORESTA_ALEATORIA
+Capote;0;0.0;FLORESTA_ALEATORIA
+CODA;1;88.94;FLORESTA_ALEATORIA
+Crash;0;38.16;FLORESTA_ALEATORIA
+Da 5 Bloods;0;0.0;FLORESTA_ALEATORIA
+Dreamgirls;0;0.0;FLORESTA_ALEATORIA
+Everything Everywhere All at Once;1;95.07;FLORESTA_ALEATORIA
+Finding Neverland;0;0.0;FLORESTA_ALEATORIA
+Ford vs. Ferrari;0;0.0;FLORESTA_ALEATORIA
+Fox Searchlight Pictures;0;0.0;FLORESTA_ALEATORIA
+Frozen River;0;0.0;FLORESTA_ALEATORIA
+Gisaengchung;0;38.16;FLORESTA_ALEATORIA
+God's Own Country;0;0.0;FLORESTA_ALEATORIA
+Good Night;0;0.0;FLORESTA_ALEATORIA
+Gravity;0;48.17;FLORESTA_ALEATORIA
+Green Book;1;85.0;FLORESTA_ALEATORIA
+Half Nelson;0;0.0;FLORESTA_ALEATORIA
+Happy-Go-Lucky;0;0.0;FLORESTA_ALEATORIA
+Her;0;0.0;FLORESTA_ALEATORIA
+Hidden Figures;0;38.16;FLORESTA_ALEATORIA
+Hotel Ruanda;0;0.0;FLORESTA_ALEATORIA
+Hugo;0;0.0;FLORESTA_ALEATORIA
+If Beale Street Could Talk;0;0.0;FLORESTA_ALEATORIA
+Inglourious Basterds;0;38.16;FLORESTA_ALEATORIA
+Inside Llewyn Davis;0;0.0;FLORESTA_ALEATORIA
+Into the Wild;0;0.0;FLORESTA_ALEATORIA
+Juno;0;0.0;FLORESTA_ALEATORIA
+Killers of the Flower Moon;0;0.0;FLORESTA_ALEATORIA
+La La Land;0;23.0;FLORESTA_ALEATORIA
+Letters from Iwo Jima;0;0.0;FLORESTA_ALEATORIA
+Licorice Pizza;0;0.0;FLORESTA_ALEATORIA
+Little Miss Sunshine;1;88.94;FLORESTA_ALEATORIA
+Mad Max: Fury Road;0;0.0;FLORESTA_ALEATORIA
+Manchester by the Sea;0;0.0;FLORESTA_ALEATORIA
+Marriage Story;0;0.0;FLORESTA_ALEATORIA
+Million Dollar Baby;0;48.17;FLORESTA_ALEATORIA
+Moonlight;1;69.0;FLORESTA_ALEATORIA
+Moonrise Kingdom;0;0.0;FLORESTA_ALEATORIA
+Nine;0;0.0;FLORESTA_ALEATORIA
+No Country for Old Men;1;63.5;FLORESTA_ALEATORIA
+Nomadland;1;85.0;FLORESTA_ALEATORIA
+Once Upon a Time in Hollywood;0;0.0;FLORESTA_ALEATORIA
+Oppenheimer;1;71.77;FLORESTA_ALEATORIA
+Past Lives;0;0.0;FLORESTA_ALEATORIA
+Roma;0;11.5;FLORESTA_ALEATORIA
+Scott Pilgrim vs. the World;0;0.0;FLORESTA_ALEATORIA
+Sideways;0;43.7;FLORESTA_ALEATORIA
+Silver Linings;0;0.0;FLORESTA_ALEATORIA
+Slumdog Millionaire;1;86.0;FLORESTA_ALEATORIA
+Spotlight;0;43.7;FLORESTA_ALEATORIA
+The Artist;1;86.0;FLORESTA_ALEATORIA
+The Aviator;0;33.0;FLORESTA_ALEATORIA
+The Big Short;1;73.05;FLORESTA_ALEATORIA
+The Departed;1;77.18;FLORESTA_ALEATORIA
+The Descendants;0;0.0;FLORESTA_ALEATORIA
+The Fabelmans;0;1.0;FLORESTA_ALEATORIA
+The Forty-Year-Old Version;0;0.0;FLORESTA_ALEATORIA
+The Help;0;38.16;FLORESTA_ALEATORIA
+The Holdovers;0;0.0;FLORESTA_ALEATORIA
+The Hurt Locker;1;86.0;FLORESTA_ALEATORIA
+The Irishman;0;0.0;FLORESTA_ALEATORIA
+The King's Speech;1;96.0;FLORESTA_ALEATORIA
+The Lord of the Rings: The Return of the King;1;88.94;FLORESTA_ALEATORIA
+The Lost Daughter;0;0.0;FLORESTA_ALEATORIA
+The Post;0;0.0;FLORESTA_ALEATORIA
+The Power of the Dog;0;7.0;FLORESTA_ALEATORIA
+The Queen;0;2.83;FLORESTA_ALEATORIA
+The Revenant;0;7.0;FLORESTA_ALEATORIA
+The Rider;0;0.0;FLORESTA_ALEATORIA
+The Shape of Water;1;90.5;FLORESTA_ALEATORIA
+The Social Network;0;2.0;FLORESTA_ALEATORIA
+The Trial of the Chicago 7;0;38.16;FLORESTA_ALEATORIA
+Three Billboards Outside Ebbing;0;16.24;FLORESTA_ALEATORIA
+Tick Tick... Boom!;0;0.0;FLORESTA_ALEATORIA
+Top Gun: Maverick;0;0.0;FLORESTA_ALEATORIA
+Up in the Air;0;0.0;FLORESTA_ALEATORIA
+Walk the line;0;0.0;FLORESTA_ALEATORIA
+Winter's Bone;0;0.0;FLORESTA_ALEATORIA
+Zero Dark Thirty;0;0.0;FLORESTA_ALEATORIA
